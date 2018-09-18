@@ -1,0 +1,21 @@
+{
+  "name": "scrapper-hackernews",
+  "version": "1.0.0",
+  "description": "scrapper hackernews urls using firebase api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hackernews",
+    "scrapper",
+    "url",
+    "firebase"
+  ],
+  "author": "diogoalves",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.5.0",
+    "p-map": "^1.2.0"
+  }
+}
